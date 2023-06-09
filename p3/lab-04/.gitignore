@@ -1,0 +1,4 @@
+node_modules
+
+# if node modules is still being tracked: -> <-
+**/node_modules
